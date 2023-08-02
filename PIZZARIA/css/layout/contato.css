@@ -1,0 +1,45 @@
+body {
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+    background-color: #020202;
+    color: #c0b9b9; 
+  }
+  
+  header {
+    background-color: #6c0707;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    color: rgb(206, 200, 200);
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #FF6F61;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  footer {
+    background-color: #FF6F61; 
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  #contact-info{
+    display: flex;
+  }
+  #imagem{
+    margin-top: 30px;
+    margin-left: 110px;
+  }
